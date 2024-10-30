@@ -65,3 +65,8 @@ subroutine at that address.  An example of such a file follows:
 
 The fourth argument can be omitted, in which case no special handling
 of `FETC` data is performed.
+
+Related Projects
+================
+
+- [xdt99/xdg99](https://github.com/endlos99/xdt99?tab=readme-ov-file#xda99)
